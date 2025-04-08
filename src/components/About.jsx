@@ -18,7 +18,7 @@ const About = () => {
               I specialize in building scalable applications with clean code, optimizing performance, and creating dynamic, responsive user interfaces.
             </p>
 
-            <h2 className="text-blue-600 font-bold text-2xl">Internship Experience</h2>
+            <h2 className="text-blue-600 font-bold text-2xl">Work Experience</h2>
             <p className="text-gray-700 text-lg md:text-xl leading-relaxed">
               I worked as a <strong>Software developer intern</strong> at 
               <a href="https://afrisauti.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline"> Afrisauti vas ltd </a> 

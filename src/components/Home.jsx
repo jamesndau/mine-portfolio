@@ -23,7 +23,7 @@ const Home = () => {
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 leading-tight">
             Hello, I'm a <span className="text-blue-800">
             <ReactTyped
-              strings={['Software Developer...', 'Problem Solver...', 'Machine Learning Enthusiast...']}
+              strings={['Software Developer...', 'Machine Learning Enthusiast...']}
               typeSpeed={40}
               backSpeed={50}
               backDelay={1000}

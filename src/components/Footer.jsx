@@ -71,7 +71,7 @@ const Footer = () => {
                   href="#contact"
                   className="text-gray-300 hover:text-white transition duration-300"
                 >
-                  Contact
+                  Contact(+254798698887)
                 </a>
               </li>
             </ul>
