@@ -37,7 +37,7 @@ Afrisauti artists and content creators
             <ul className="list-none space-y-2">
               <li>Email: <a href="mailto:jameskano801@gmail.com" className="text-blue-600 hover:underline">jameskano801@gmail.com</a></li>
               <li>GitHub Profile: <a href="https://github.com/jamesndau" className="text-blue-600 hover:underline">https://github.com/jamesndau</a></li>
-              <li>Portfolio: <a href="https://jayso-18c16.web.app/index.html" className="text-blue-600 hover:underline">https://jayso-18c16.web.app/index.html</a></li>
+              <li>Portfolio: <a href="https://kanoti.netlify.app" className="text-blue-600 hover:underline">https://kanoti.netlify.app</a></li>
             </ul>
 
             <h2 className="text-blue-600 font-bold text-2xl">Career Objective</h2>
